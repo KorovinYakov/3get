@@ -1,0 +1,9 @@
+D:\MRC_C_sharp\MRC_C_sharp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MRC_C_sharp\MRC_C_sharp\obj\x86\Debug\MRC_C_sharp.Form1.resources
+D:\MRC_C_sharp\MRC_C_sharp\obj\x86\Debug\MRC_C_sharp.Properties.Resources.resources
+D:\MRC_C_sharp\MRC_C_sharp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MRC_C_sharp\MRC_C_sharp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MRC_C_sharp\MRC_C_sharp\bin\Debug\MRC_C_sharp.exe
+D:\MRC_C_sharp\MRC_C_sharp\bin\Debug\MRC_C_sharp.pdb
+D:\MRC_C_sharp\MRC_C_sharp\obj\x86\Debug\MRC_C_sharp.exe
+D:\MRC_C_sharp\MRC_C_sharp\obj\x86\Debug\MRC_C_sharp.pdb
